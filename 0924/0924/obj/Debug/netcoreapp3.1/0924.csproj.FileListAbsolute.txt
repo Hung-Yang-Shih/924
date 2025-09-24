@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\924\0924\0924\obj\Debug\netcoreapp3.1\0924.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\924\0924\0924\obj\Debug\netcoreapp3.1\0924.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\924\0924\0924\obj\Debug\netcoreapp3.1\0924.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\924\0924\0924\bin\Debug\netcoreapp3.1\0924.exe
+C:\Users\Administrator\Desktop\924\0924\0924\bin\Debug\netcoreapp3.1\0924.deps.json
+C:\Users\Administrator\Desktop\924\0924\0924\bin\Debug\netcoreapp3.1\0924.runtimeconfig.json
+C:\Users\Administrator\Desktop\924\0924\0924\bin\Debug\netcoreapp3.1\0924.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\924\0924\0924\bin\Debug\netcoreapp3.1\0924.dll
+C:\Users\Administrator\Desktop\924\0924\0924\bin\Debug\netcoreapp3.1\0924.pdb
+C:\Users\Administrator\Desktop\924\0924\0924\obj\Debug\netcoreapp3.1\0924.dll
+C:\Users\Administrator\Desktop\924\0924\0924\obj\Debug\netcoreapp3.1\0924.pdb
